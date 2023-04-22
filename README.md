@@ -37,7 +37,12 @@ The EDA is done using Python 3. The following libraries are used:
 The EDA provides insights about the IPL matches and answers various questions related to the tournament. It helps to understand the performance of teams, players, and venues in IPL.
 
 :raising_hand: Author
-This EDA is done by [Your Name]. Feel free to connect with me on LinkedIn for any queries or suggestions.
+This EDA is done by Ashlesh. Feel free to connect with me on LinkedIn for any queries or suggestions.
+
+For any query, ping me on
+- LinkedIn: [@Ashleshk](https://www.linkedin.com/in/ashleshk/)
+- Twitter: [@Ashleshk](https://twitter.com/ashlesh98)
+Hope, it helps!! ヅ
 
 :page_with_curl: License
 This project is licensed under the MIT License - see the LICENSE file for details.
