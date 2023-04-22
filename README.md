@@ -32,6 +32,15 @@ The EDA is done using Python 3. The following libraries are used:
 - Matplotlib
 - Seaborn
 
+### Questions Answered
+- Which team has won the most number of matches in IPL history?
+- Who are the top run-scorers and wicket-takers in IPL?
+- Which player has won the most number of Player of the Match awards?
+- Which team won batting first and second in IPL?
+- Which venue has hosted the most number of IPL matches?
+- What is the percentage of matches won by the team winning the toss?
+- Which team has the highest win percentage when chasing a target?
+- What is the distribution of runs scored in each over of an IPL match?
 
 ### Results
 The EDA provides insights about the IPL matches and answers various questions related to the tournament. It helps to understand the performance of teams, players, and venues in IPL.
@@ -42,7 +51,7 @@ This EDA is done by Ashlesh. Feel free to connect with me on LinkedIn for any qu
 For any query, ping me on
 - LinkedIn: [@Ashleshk](https://www.linkedin.com/in/ashleshk/)
 - Twitter: [@Ashleshk](https://twitter.com/ashlesh98)
-Hope, it helps!! ヅ
+- Hope, it helps!! ヅ
 
 :page_with_curl: License
 This project is licensed under the MIT License - see the LICENSE file for details.
