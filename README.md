@@ -36,9 +36,11 @@ The EDA is done using Python 3. The following libraries are used:
 - Which team has won the most number of matches in IPL history?
 - Who are the top run-scorers and wicket-takers in IPL?
 - Which player has won the most number of Player of the Match awards?
+- What is the biggest margin of wins by runs for each season?
+- Find out No of Toss Wins with respect to Each Team?
 - Which team won batting first and second in IPL?
 - Which venue has hosted the most number of IPL matches?
-- What is the percentage of matches won by the team winning the toss?
+- How many matches does each team played with their no. of matches won & their win percentage?
 - Which team has the highest win percentage when chasing a target?
 - What is the distribution of runs scored in each over of an IPL match?
 
